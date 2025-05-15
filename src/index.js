@@ -55,6 +55,9 @@ import "./styles.css";
         });
     })();
 
+
+
+    changePage(0);
     
 })();
 

@@ -1,0 +1,113 @@
+{
+    "Comidas":[
+        {
+            "name": "Huevos cocidos rellenos de aguacate",
+            "price": 0.99
+        },
+        {
+            "name": "Espaguetis a la carbonara",
+            "price": 7.25
+        },
+        {
+            "name": "Arroz a la cubana",
+            "price": 20
+        },
+        {
+            "name": "Pollo al curry",
+            "price": 54
+        },
+        {
+            "name": "Bocata lomo ya",
+            "price": 14.99
+        }
+    ],
+
+
+    "Cenas":[
+        {
+            "name": "Ternera con salsa de queso",
+            "price": 114
+        },
+        {
+            "name": "Combo burritos o fajitas",
+            "price": 7
+        },
+        {
+            "name": "Sándwich mixto",
+            "price": 8
+        },
+        {
+            "name": "Pizza al horno",
+            "price": 22
+        },
+        {
+            "name": "Perrito",
+            "price": 10
+        }
+    ],
+
+    "Brunch":[
+        {
+            "name": "Tortitas",
+            "price": 6.5
+        },
+        {
+            "name": "Crepes",
+            "price": 7.5
+        },
+        {
+            "name": "Cereales",
+            "price": 12
+        },
+        {
+            "name": "Huevos Benedict",
+            "price": 18
+        },
+        {
+            "name": "Tostadas",
+            "price": 6
+        },
+        {
+            "name": "English breakfast",
+            "price": 11.99
+        },
+        {
+            "name": "American Breakfast",
+            "price": 11.99
+        }
+    ],
+    "Bebidas":[
+        {
+            "name": "Coca cola",
+            "price": 4
+        },
+        {
+            "name": "Agua embotellada",
+            "price": 4
+        },
+        {
+            "name": "Agua de grifo",
+            "price": 4.25
+        },
+        {
+            "name": "Café",
+            "price": 1.25
+        },
+        {
+            "name": "Monster",
+            "price": 2
+        },
+        {
+            "name": "Whisky",
+            "price": 56
+        },
+        {
+            "name": "Energety",
+            "price": 1.20
+        },
+        {
+            "name": "Té",
+            "price": 5
+        }
+    ]
+}
